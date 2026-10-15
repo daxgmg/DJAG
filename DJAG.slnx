@@ -1,2 +1,4 @@
 <Solution>
+  <Project Path="DJAG.Temperatura.UnitTestMSTest/DJAG.Temperatura.UnitTestMSTest.csproj" />
+  <Project Path="DJAG.Temperatura/DJAG.Temperatura.csproj" />
 </Solution>
